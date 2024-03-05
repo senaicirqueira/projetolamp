@@ -1,0 +1,1 @@
+para usar essa aplicação é necessário utilizar o visual code da microsoft.! 
